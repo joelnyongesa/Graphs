@@ -1,0 +1,11 @@
+{
+  "name": "data-structures-graphs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/graph.js",
+  "scripts": {
+    "test": "node __tests__/graph.test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
